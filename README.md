@@ -31,9 +31,9 @@ $ npm start
 
 👤 **Omar Salem**
 
-- GitHub: [Omar Salem](https://github.com/zairdon20)
-- Twitter: [Omar Salem](https://twitter.com/josphat-nkonde1)
-- LinkedIn: [Omar Salem](https://www.linkedin.com/in/josphat-nkonde/)
+- GitHub: [zairdon20](https://github.com/zairdon20)
+- Twitter: [josphatnkonde1](https://twitter.com/josphat-nkonde1)
+- LinkedIn: [josphat nkonde](https://www.linkedin.com/in/josphat-nkonde/)
 
 ## 🤝 Contributing
 
